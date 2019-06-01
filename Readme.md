@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Artyom Ibragimov](https://up.htmlacademy.ru/javascript/17/user/786745).
-* Наставник: [Анастасия Ничипорчук].
+* Наставник: [Анастасия Ничипорчук](https://htmlacademy.ru/profile/id612797).
 
 ---
 
